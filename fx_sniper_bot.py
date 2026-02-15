@@ -1,3 +1,4 @@
+import os
 #!/usr/bin/env python3
 """
 ╔══════════════════════════════════════════════════════════════════╗
@@ -15,7 +16,6 @@ CARA PAKAI:
   4. python fx_sniper_bot.py
 """
 
-import os
 import schedule
 import time
 import logging
